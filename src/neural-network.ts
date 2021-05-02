@@ -1,5 +1,5 @@
 import { KernelOutput } from 'gpu.js';
-import { Thaw } from 'thaw.js';
+import { Thaw } from 'thaw.js/dist';
 import { ITrainingStatus } from './feed-forward';
 import { InputOutputValue, INumberHash, lookup } from './lookup';
 import {
